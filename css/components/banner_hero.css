@@ -1,0 +1,19 @@
+.banner {
+    background-image: url("https://cdn.europosters.eu/image/750webp/63330.webp");
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+.banner h1 {
+    color: white;
+    font-size: 35px;
+    box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}
+
+.banner p {
+    color: white;
+    opacity: .7;
+    font-size: 20px;
+    box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}

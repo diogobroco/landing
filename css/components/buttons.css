@@ -1,0 +1,16 @@
+.btn-primary {
+    display: inline-block;
+    background-color: #10633e;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #12b66c;
+}
+
+.center-button {
+    display: flex;
+    justify-content: space-around;
+}
